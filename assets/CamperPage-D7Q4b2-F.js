@@ -1,1 +1,0 @@
-import{u as e,f as t,r,h as c,j as m}from"./index-BrNUR70v.js";const p={},u=()=>{const s=e(),{camperId:a}=t();return r.useEffect(()=>{s(c(Number(a)))},[s,a]),m.jsx("h1",{className:p.title,children:"Camper details"})};export{u as default};
