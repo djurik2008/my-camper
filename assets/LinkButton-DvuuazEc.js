@@ -1,0 +1,1 @@
+import{j as o,p as i,c as l}from"./index-D8u1HE-S.js";const c="_linkButton_1sctn_33",u={linkButton:c},a=({text:t,linkTo:n,className:s=null})=>o.jsx(i,{to:n,className:l(u.linkButton,s),children:t});export{a as L};
